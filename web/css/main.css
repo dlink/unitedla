@@ -79,6 +79,10 @@ body {
    background-color: lightgrey;
 }
 
+.body .menu .about-us {
+   background-color: #B5EAAA;
+   margin-top: 40px;
+}
 .body .image {
    padding: 0px;
 }
